@@ -1,10 +1,10 @@
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.deps.json
+D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.runtimeconfig.json
+D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.runtimeconfig.dev.json
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.dll
+D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.pdb
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\obj\Debug\netcoreapp3.0\MySimpleECommerce.Domain.csprojAssemblyReference.cache
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\obj\Debug\netcoreapp3.0\MySimpleECommerce.Domain.AssemblyInfoInputs.cache
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\obj\Debug\netcoreapp3.0\MySimpleECommerce.Domain.AssemblyInfo.cs
-D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.runtimeconfig.json
-D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.runtimeconfig.dev.json
-D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.pdb
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\obj\Debug\netcoreapp3.0\MySimpleECommerce.Domain.dll
 D:\C#\MySimpleECommerce\MySimpleECommerce.Domain\obj\Debug\netcoreapp3.0\MySimpleECommerce.Domain.pdb

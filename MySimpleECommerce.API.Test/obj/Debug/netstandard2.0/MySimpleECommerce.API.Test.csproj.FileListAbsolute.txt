@@ -1,8 +1,0 @@
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\bin\Debug\netstandard2.0\MySimpleECommerce.API.Test.deps.json
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\bin\Debug\netstandard2.0\MySimpleECommerce.API.Test.dll
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\bin\Debug\netstandard2.0\MySimpleECommerce.API.Test.pdb
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\obj\Debug\netstandard2.0\MySimpleECommerce.API.Test.csprojAssemblyReference.cache
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\obj\Debug\netstandard2.0\MySimpleECommerce.API.Test.AssemblyInfoInputs.cache
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\obj\Debug\netstandard2.0\MySimpleECommerce.API.Test.AssemblyInfo.cs
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\obj\Debug\netstandard2.0\MySimpleECommerce.API.Test.dll
-D:\C#\MySimpleECommerce\MySimpleECommerce.API.Test\obj\Debug\netstandard2.0\MySimpleECommerce.API.Test.pdb

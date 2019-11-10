@@ -1,8 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MySimpleECommerce.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MySimpleECommerce.Infrastructure
 {
