@@ -1,0 +1,13 @@
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.deps.json
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.dll
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.csprojAssemblyReference.cache
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.AssemblyInfo.cs
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.runtimeconfig.json
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.runtimeconfig.dev.json
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.pdb
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.dll
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\bin\Debug\netcoreapp3.0\MySimpleECommerce.Domain.pdb
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.csproj.CopyComplete
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.dll
+D:\C#\MySimpleECommerce\MySimpleECommerce.Infrastructure\obj\Debug\netcoreapp3.0\MySimpleECommerce.Infrastructure.pdb
